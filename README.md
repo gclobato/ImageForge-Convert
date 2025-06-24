@@ -1,8 +1,7 @@
 # ImageForge – Conversor de Imagens Multiformato
+# Automação 
+
 Converter-Imagens - JPG,PNG,JFIF,HEIC E ETC.
-
-
-Conversor de Imagens – JPEG, PNG, JFIF, HEIC.
 
 Este utilitário realiza a conversão em massa de imagens para os formatos mais comuns, como JPEG, PNG, JFIF e HEIC, utilizando o ImageMagick Display instalado no sistema.
 
