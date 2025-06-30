@@ -6,7 +6,7 @@ Converter-Imagens - JPG,PNG,JFIF,HEIC E ETC.
 Este utilitário realiza a conversão em massa de imagens para os formatos mais comuns, como JPEG, PNG, JFIF e HEIC, utilizando o ImageMagick Display instalado no sistema.
 
 ✅ Requisitos:
-Ter o ImageMagick Display instalado e configurado no PATH.
+Ter o ImageMagick Display instalado.
 
 Os arquivos a serem convertidos devem estar soltos na pasta raiz do projeto, sem estarem dentro de subpastas.
 
